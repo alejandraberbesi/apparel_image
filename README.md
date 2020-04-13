@@ -1,4 +1,4 @@
-# Multi-label apparel image prediction
+# Multi-label apparel images prediction
 
 Classification of type and color of clothing for each image of the dataset using a convolutional neural network (CNN).
 
